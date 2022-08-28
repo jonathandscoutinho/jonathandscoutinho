@@ -1,23 +1,24 @@
-## Seja muito bem-vindo(a) ao meu GitHub! 
-#### Me chamo Jonathan, tenho 26 Anos e sou apaixonado por tecnologia ♥
-#### Cursando 1º Semestre de Tecnologia em Análise e Desenvolvimento de Sistemas.
+## Hi, I'm Jonathan Dos Santos Coutinho
+- 📚 I'm a Student at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
+- 📝 Studying 1st Semester of Technology in Systems Analysis and Development.
 
 <br>
 <div align="center">
   <a href="https://github.com/jonathandscutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathandscoutinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandscoutinho&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathandscoutinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandscoutinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
   
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-</div>
-    
-</div>
+<hr>
+  
+### Languages and Tools:
+  
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<hr>
   
   ##
   
