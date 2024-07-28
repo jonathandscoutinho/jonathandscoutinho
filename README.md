@@ -1,6 +1,6 @@
 ## Hi, I'm Jonathan Dos Santos Coutinho
 - 📚 I'm a Student at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
-- 📝 Studying 4st Semester in Systems Analysis and Development.
+- 📝 Studying 5st Semester in Systems Analysis and Development.
 
 <hr>
 
